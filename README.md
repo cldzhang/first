@@ -15,6 +15,6 @@ test
 + mysql
 
 ---------
-* vue
-* angular
-* react
+1. vue
+2. angular
+3. react
